@@ -1,0 +1,7 @@
+{
+    "env":{
+        "Name":"node-shop",
+        "Password":"node-shop",
+        "JWT_KEY":"asdf789ojm"
+    }
+}
